@@ -5,3 +5,7 @@ h1{
 body{
     background: linear-gradient(110.1deg, rgb(34, 126, 34) 2.9%, rgb(168, 251, 60) 90.3%);
 }
+.giphy-embed{
+display: block;
+margin: 0 auto;
+}
