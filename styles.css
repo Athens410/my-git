@@ -1,5 +1,6 @@
 h1{
     color: aqua;
+    text-align: center;
 }
 body{
     background: linear-gradient(110.1deg, rgb(34, 126, 34) 2.9%, rgb(168, 251, 60) 90.3%);
